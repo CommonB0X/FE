@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CommonB0X/FE/main/Poses", true))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CommonB0X/FE/main/Spiderman'))()
